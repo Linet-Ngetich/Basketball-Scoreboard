@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: #E5E5E5 ;
+}
+
+.container {
+    display: flex;
+    width: 400px;
+    background-color: #1B244A;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+    margin: auto;
+    border-radius: 5px;
+    
+}
+
+.score {
+    background-color: black;
+    width: 120px;
+    padding: 10px 10px 0 10px;
+    margin-bottom: 20px;
+    color: #f94f6d;
+    font-size: 80px;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;                                          
+                                                
+}
+
+button {
+    line-height: 20px;
+    padding: 5px 10px;
+    color: #9AABD8;
+    border-radius: 4px;
+    background-color: #1B244A;
+    border: 2px solid #9AABD8;
+}
+
+h1{
+    color: #EEEEEE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
